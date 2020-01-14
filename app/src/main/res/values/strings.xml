@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="ip_servlet">192.168.0.25:8080</string>
+</resources>
